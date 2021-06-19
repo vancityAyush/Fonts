@@ -6,10 +6,10 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <TextView
+    <MultiAutoCompleteTextView
         android:id="@+id/textView"
         android:layout_width="wrap_content"
-        android:layout_height="85dp"
+        android:layout_height="wrap_content"
         android:layout_marginTop="32dp"
         android:text="The quick brown fox jumped over the lazy dog"
         android:textSize="34sp"
